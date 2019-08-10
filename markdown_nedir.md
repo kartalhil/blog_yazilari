@@ -29,3 +29,6 @@ Bu kadar yazdım, birkaç örnek göstermezsem tabii ki olmaz.
 - Bullet list için `*` ve numbered list için rakam kullanılabilmektedir.
  #### Görsel:
 - Metin içerisinde görseller de kullanmamız mümkün. Görsel tanımı için ünlem ve köşeli parantez içerisinde görselin `alt`, parantez içerisinde görselin adı / yolu, tırnak içerisinde `title` tanımları yapılır.
+
+
+//medium.com da paylaşıldı link: https://medium.com/@hilalkartal.ce/markdown-nedir-acb2fed66dca
