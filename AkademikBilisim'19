@@ -1,0 +1,47 @@
+# Akademik Bilişim 2019 PHP ve MySQL ile Web Programlama 
+
+4 gün süren Akademik Bilişim boyunca Ordu'da neler yaptığımızın kısacık özeti: 
+
+### 1.Gün (09/02/2019) 
+
+- Php ve MySQL kullanımı için gerekli ordam hazırlandı.
+- Git ve öneminden bahsedildi. 
+- HTML ve CSS konularına giriş yapıldı. Bootstrap ile basit bir örnek hazırlandı.
+- Veritabanı için gerekli bilgiler verildi. Çalışma ortamında basit örnekler yapıldı.
+- Temel SQL komutları ile örnekler yapıldı.
+- windows için htdocs klasörünü terminalden açma işlemi gösterildi.
+- Faydalı eklentilere göz atılarak çalışma ortamı daha eğlenceli ve kullanışlı hale getirildi.
+
+### 2.Gün (10/02/2019)
+
+- DNS, TLD gibi kavramlardan bahsedildi.
+- DNS 'in nasıl çalıştığına dair detaylı bir anlatım yapıldı.
+- SEO çalışmasının öneminden bahsedildi ve birkaç örnek incelendi.
+- Rehber projesi için veritabanı oluşturuldu ve örnek sorgular yazılıp, çalıştırıldı.
+- PHP 'ye giriş yapıldı. Basit php komutları ile örnekler yapıldı.
+- Küresel Değişkenler'den bahsedildi. ( $_GET / $_POST / $_
+SERVER vb.)
+
+#### 2.Gün Ders Sonrası Etüt
+- Grid yapısı incelendi ve responsive örnek yapıldı.
+
+### 3.Gün (11/02/2019)
+
+- Etütte yapılan responsive örnek tekrar edildi ve geliştirmeler üzerine çalışma yapıldı.
+- MySQL Kullanım Komutlarından bahsedildi. 
+- MySQL sunucusuna bağlanma gösterildi. Gerekli kodlar projeye eklendi.
+- GitHub' da nasıl yeni proje oluşturacağımız gösterildi.
+- HTML Form oluşturuldu, bu formdan veri alınıp gizlendi.
+- Formda doldurulmayan alan olması durumunda uyarı mesajı verildi. 
+- MySQL veritabanı ve PHP ile bağlanma komutları tekrar edildi.
+- txt dosyalarından oluşan 'İsim Sözlüğü Projesi' hazırlandı.
+- Yetkilendirmeden bahsedildi. (kullanıcıya belirli kısımlar gösterilir ancak değiştirme işlemini yönetim paneline erişebilen kişi yapar.)
+
+#### 3.Gün Ders Sonrası Etüt
+- Derste yapılan İsim Sözlüğü için Parçalama(explode) işlemi yapıldı. 
+- Örnek olarak ismin anlamının içinde geçen sözcüğü aratıp, bulup o isimleri sıralama.
+
+### 4.Gün (12/02/2019)
+
+- GitHub ile uzaktan proje desteklemenin önemi hakkında konuşuldu.
+- Nasıl destekleyebileceğimiz uygulamalı olarak gösterildi. 
